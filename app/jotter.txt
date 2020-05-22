@@ -1,0 +1,3 @@
+inorder to make the customer have many document we use the manyttomany field
+
+REST stands for Representational State Transfer
